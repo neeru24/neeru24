@@ -1,9 +1,9 @@
 <h1 style = "align:center">👩‍💻About me: </h1>
-    🎓 Passionate Computer Science student at CT University, dedicated to constantly developing my skillset. <br>
-    💻 Familiar with HTML and CSS, with hands-on experience from working on various projects. Currently expanding my skillset by diving into JavaScript.  <br>
-   📚 Proficient in Google Drive and MS Office suites.  <br>
-   🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts.  <br>
-   🚀 Excited to learn, collaborate, and make a positive impact in the tech world!  <br>
+    🎓 Passionate Computer Science student at CT University, dedicated to constantly developing my skillset. <br><br>
+    💻 Familiar with HTML and CSS, with hands-on experience from working on various projects. Currently expanding my skillset by diving into JavaScript.  <br><br>
+   📚 Proficient in Google Drive and MS Office suites.  <br><br>
+   🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts.  <br><br>
+   🚀 Excited to learn, collaborate, and make a positive impact in the tech world!  <br><br>
     
 <h1 style = "align:center">:hammer_and_wrench: Languages and Tools : <h1>
 <div>
