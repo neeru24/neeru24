@@ -1,4 +1,4 @@
-<h1 style = "align:center">🌐Social Media</h1>
+<h1 style = "align:center">🌐Social Media :</h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/neerugangarh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -6,6 +6,10 @@
   <a href="https://www.youtube.com/@neeru.yt.005">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+   <a href="[https://www.youtube.com/@neeru.yt.005](https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B)">
+    <img src="https://img.shields.io/badge/YT Interview-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
 </div>
 
 <h1 style = "align:center">👩‍💻About me: </h1>
