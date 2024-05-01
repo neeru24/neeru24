@@ -1,3 +1,13 @@
+<h1 style = "align:center">🌐Social Media</h1>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/neerugangarh">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@neeru.yt.005">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
 <h1 style = "align:center">👩‍💻About me: </h1>
     🎓 Passionate Computer Science student at CT University, dedicated to constantly developing my skillset. <br><br>
     💻 Familiar with HTML and CSS, with hands-on experience from working on various projects. Currently expanding my skillset by diving into JavaScript.  <br><br>
