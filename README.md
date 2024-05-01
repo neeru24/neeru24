@@ -12,7 +12,7 @@
   
 </div>
 
-<h1 style = "align:center">👩‍💻About me: </h1>
+<h1 style = "align:center">👩‍💻About me : </h1>
     🎓 Passionate Computer Science student at CT University, dedicated to constantly developing my skillset. <br><br>
     💻 Familiar with HTML and CSS, with hands-on experience from working on various projects. Currently expanding my skillset by diving into JavaScript.  <br><br>
    📚 Proficient in Google Drive and MS Office suites.  <br><br>
