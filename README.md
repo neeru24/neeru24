@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bhBWbzBjgeSxEjBG9R/giphy.gif"  width="150"/>
 </div>
-<div style="display: flex; justify-content: center;">
-<div id="badges">
+
+<div id="badges" style="text-align: center;">
   <a href="https://www.linkedin.com/in/neerugangarh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/YT Interview-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-</div>
+
 
 <h1 style = "align:center">👩‍💻About me : </h1>
     🎓 Passionate Computer Science student at CT University, dedicated to constantly developing my skillset. <br><br>
