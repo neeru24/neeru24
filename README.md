@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="C:\Users\91981\OneDrive\Pictures\giphy.gif" width="100">
+</div>
+
 <h1 style = "align:center">🌐Social Media :</h1>
 <div id="badges">
   <a href="https://www.linkedin.com/in/neerugangarh">
