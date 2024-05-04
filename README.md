@@ -8,7 +8,8 @@
     </h1>
 </div>
 
-<h1 >🔗Connect with me :</h1>
+<h1 >🔗Get in touch :</h1>
+Hello, fellow coder! 🖐️ Welcome to my GitHub profile !Feel free to reach out to me on the following platforms:
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/neerugangarh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,6 +19,10 @@
   </a>
    <a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B">
     <img src="https://img.shields.io/badge/YT Podcast-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+    </a>
+   <a href="https://github.com/neeru24">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
 </div>
 
