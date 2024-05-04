@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/bhBWbzBjgeSxEjBG9R/giphy.gif"  width="100"/>
 </div>
 
-<h1 style = "align:center">🌐Social Media :</h1>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/neerugangarh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
