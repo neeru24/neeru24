@@ -33,7 +33,8 @@
 # 📊 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
 
-<img src="https://komarev.com/ghpvc/?username=neeru24&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=neeru24&style=flat-square&color=blue" alt="" style="border-radius: 5px; border: 1px solid blue; padding: 5px;">
+
 
 
 
