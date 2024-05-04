@@ -13,9 +13,6 @@
    <a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B">
     <img src="https://img.shields.io/badge/YT Interview-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="https://x.com/Neeru2405?t=_6nfukLeIixqcQKURHEpMQ&s=09">
-    <img src="https://img.shields.io/badge/𝕏-black?style=for-the-badge&logo=x&logoColor=white" alt="Youtube Badge"/>
-  </a>
 </div>
 
 <h1 style = "align:center">👩‍💻About me : </h1>
