@@ -8,7 +8,7 @@
     </h1>
 </div>
 
-<h1 >🔗Connect with me</h1>
+<h1 >🔗Connect with me :</h1>
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/neerugangarh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
