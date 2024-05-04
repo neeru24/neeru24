@@ -46,6 +46,8 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach ou
 Peek into my GitHub stats to check out my digital journey! <br> <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?neeru24=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+
 
 
 
