@@ -40,7 +40,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach ou
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-
+<br>
 
 # 📊 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
