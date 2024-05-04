@@ -4,14 +4,17 @@
 
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/neerugangarh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/@neeru.yt.005">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   <a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B">
+    <img src="https://img.shields.io/badge/YT Interview-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://x.com/Neeru2405?t=_6nfukLeIixqcQKURHEpMQ&s=09">
+    <img src="https://img.shields.io/badge/𝕏-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
