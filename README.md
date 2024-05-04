@@ -47,7 +47,7 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/neeru24=DenverCoder1)](https://git.io/streak-stats)
 
 
 
