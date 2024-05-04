@@ -42,6 +42,9 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach ou
 
 <br>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/neeru24/neeru24/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 
 # 📊 My Stats :
 Peek into my GitHub stats to check out my digital journey! <br> <br>
