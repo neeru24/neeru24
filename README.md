@@ -43,7 +43,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach ou
 <br>
 
 # 📊 My Stats :
-Peek into my GitHub stats to check out my digital journey! 
+Peek into my GitHub stats to check out my digital journey! <br> <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
 
 
