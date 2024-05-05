@@ -48,7 +48,10 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
 
-<h1>Enjoy Coding ❤</h1> 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=neeru24&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<h2>Enjoy Coding ❤</h2> 
 
 
 
