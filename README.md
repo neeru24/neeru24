@@ -47,7 +47,7 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=neeru24&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/neeru24)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Enjoy+Coding..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+bigger.." alt="Typing SVG"/>
