@@ -39,7 +39,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach ou
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 # 📊 My Stats :
@@ -47,8 +47,6 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=neeru24&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/neeru24)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
     <h1>
