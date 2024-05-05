@@ -41,7 +41,8 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach ou
 </div>
   <br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 # 📊 My Stats :
