@@ -1,13 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bhBWbzBjgeSxEjBG9R/giphy.gif"  width="190"/>
 </div>
-
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey..+I'm+Neeru;Welcome+to+my+Github+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!" alt="Typing SVG"/>
     </h1>
 </div>
-
 <h1 >🔗Get in touch :</h1>
 Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">
@@ -30,9 +28,8 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach ou
 <h1 >👩‍💻About me : </h1>
     🎓 Passionate Computer Science student at CT University, dedicated to constantly developing my skillset. <br><br>
     💻 Familiar with HTML and CSS, with hands-on experience from working on various projects. Currently expanding my skillset by diving into JavaScript.  <br><br>
-   🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts.  <br><br>
-   🚀 Excited to learn, collaborate, and make a positive impact in the tech world!  <br><br>
-    
+    🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts.  <br><br>
+    🚀 Excited to learn, collaborate, and make a positive impact in the tech world!  <br><br>
 <h1>:hammer_and_wrench: Languages and Tools : <h1>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
