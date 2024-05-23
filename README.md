@@ -7,7 +7,7 @@
     </h1>
 </div>
 <h1 >🔗Get in touch :</h1>
-Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
+Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/neerugangarh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
