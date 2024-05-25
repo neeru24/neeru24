@@ -22,9 +22,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
    <a href="https://github.com/neeru24">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
-</div>
-
-
+</div>              
 <h1 >👩‍💻About me : </h1>
     🎓 Passionate Computer Science student at CT University, dedicated to constantly developing my skillset. <br><br>
     💻 Familiar with HTML and CSS, with hands-on experience from working on various projects. Currently expanding my skillset by diving into JavaScript.  <br><br>
@@ -37,23 +35,13 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
   <br>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 # 📊 My Stats :
 Peek into my GitHub stats to check out my digital journey! <br> <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=neeru24&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/neeru24)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
-
 <div align="center">
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Enjoy+Coding..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+bigger.." alt="Typing SVG"/>
     </h1>
 </div>
-
-
-
-
-
-
-
