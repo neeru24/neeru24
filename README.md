@@ -7,6 +7,7 @@
     </h1>
 </div>
 <h1 >🔗Get in touch :</h1>         
+
 Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">  
   <a href="https://www.linkedin.com/in/neerugangarh">
