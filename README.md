@@ -52,8 +52,3 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
     </h1>
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
