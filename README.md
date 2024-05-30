@@ -14,16 +14,16 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach ou
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/neerugangarh">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" title="LinkedIn" style="transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.9)'" onmouseout="this.style.filter='brightness(1)'"/>
   </a>
   <a href="https://www.youtube.com/@neeru.yt.005">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" title="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" title="YouTube" style="transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.9)'" onmouseout="this.style.filter='brightness(1)'"/>
   </a>
   <a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B">
-    <img src="https://img.shields.io/badge/YT Podcast-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" title="YouTube Podcast"/>
+    <img src="https://img.shields.io/badge/YT Podcast-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" title="YouTube Podcast" style="transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.9)'" onmouseout="this.style.filter='brightness(1)'"/>
   </a>
   <a href="https://github.com/neeru24">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge" title="GitHub"/>
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge" title="GitHub" style="transition: filter 0.3s ease-in-out;" onmouseover="this.style.filter='brightness(0.9)'" onmouseout="this.style.filter='brightness(1)'"/>
   </a>
 </div>              
 
