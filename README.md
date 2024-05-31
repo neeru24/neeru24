@@ -35,7 +35,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/neeru24/Skills_icons/blob/main/ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="40" height="40"/>
-  <img src="https://github.com/neeru24/Skills_icons/blob/main/Canva-Emblem.png" title="Canva" alt="Canva" width="70" height="40"/>
+  <img src="https://github.com/neeru24/Skills_icons/blob/main/Canva-Emblem.png" title="Canva" alt="Canva" width="75" height="40"/>
 
 </div>
   
