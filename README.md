@@ -42,7 +42,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-  <br> 
+  <br> <br>
   
 # 📊 My Stats :
 Peek into my GitHub stats to check out my digital journey! <br> <br>
