@@ -29,7 +29,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     💻 Familiar with HTML and CSS, with hands-on experience from working on various projects. Currently expanding my skillset by diving into JavaScript.  <br><br>
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts.  <br><br>
     🚀 Excited to learn, collaborate, and make a positive impact in the tech world!  <br><br>
-<h1>:hammer_and_wrench: Languages and Tools : <h1>
+<h2>:hammer_and_wrench: Languages and Tools : <h2>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
