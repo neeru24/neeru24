@@ -24,7 +24,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
 </div>              
-<h1 >👩‍💻About me : </h1>
+<h2 >👩‍💻About me : </h2>
     🎓 Passionate Computer Science student at CT University, dedicated to constantly developing my skillset. <br><br>
     💻 Familiar with HTML and CSS, with hands-on experience from working on various projects. Currently expanding my skillset by diving into JavaScript.  <br><br>
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts.  <br><br>
