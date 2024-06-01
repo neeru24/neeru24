@@ -53,3 +53,5 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
     </h1>
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/{neeru24}/count.svg)
+
