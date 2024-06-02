@@ -1,4 +1,5 @@
-![Header]("C:\Users\91981\Downloads\github-header-image.png")
+[![Header]("C:\Users\91981\Downloads\github-header-image.png")
+](https://github.com/neeru24/Skills_icons/blob/main/github-header-image.png)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bhBWbzBjgeSxEjBG9R/giphy.gif"  width="200"/>
