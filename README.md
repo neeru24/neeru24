@@ -49,6 +49,8 @@ Peek into my GitHub stats to check out my digital journey! <br> <br>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=neeru24&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/neeru24) <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
 
+![Snake animation](https://raw.githubusercontent.com/{neeru24}/{neeru24}/output/github-contribution-grid-snake-dark.svg)
+
 #### 🔍 Profile views :
 ![Visitor Count](https://profile-counter.glitch.me/{neeru24}/count.svg)
 
