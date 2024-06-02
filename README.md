@@ -1,4 +1,6 @@
-![Header](https://github.com/neeru24/Skills_icons/blob/main/github-header-image.png){: .center}
+<p align="center">
+  <img src="https://github.com/neeru24/Skills_icons/blob/main/github-header-image.png" alt="Header">
+</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bhBWbzBjgeSxEjBG9R/giphy.gif"  width="200"/>
