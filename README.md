@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+![Header]("C:\Users\91981\Downloads\github-header-image.png")
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bhBWbzBjgeSxEjBG9R/giphy.gif"  width="200"/>
 </div>
