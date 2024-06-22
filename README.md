@@ -22,11 +22,11 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     <img src="https://img.shields.io/badge/YT Podcast-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
     </a>
-   <a href="https://github.com/neeru24" style="display: inline-block; text-align: center; margin: 0 10px;">
+   <a href="https://github.com/neeru24" style="display: inline-block; text-align: center; margin: 0 13px;">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
     <a href="https://x.com/neeru24">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge" style="width: 100px; height: 28px;"/>
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge" style="width: 100px; height: 30px;"/>
   </a>
 </div>              
 <h2 >👩‍💻About me : </h2>
