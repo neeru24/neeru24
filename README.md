@@ -26,7 +26,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
     <a href="https://x.com/neeru24">
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge" style="width: 100px;"/>
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge" style="width: 100px; height: 28px;"/>
   </a>
 </div>              
 <h2 >👩‍💻About me : </h2>
