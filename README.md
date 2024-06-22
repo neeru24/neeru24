@@ -22,7 +22,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     <img src="https://img.shields.io/badge/YT Podcast-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
     </a>
-   <a href="https://github.com/neeru24">
+   <a href="https://github.com/neeru24" style="display: inline-block; text-align: center; margin: 0 10px;">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
     <a href="https://x.com/neeru24">
