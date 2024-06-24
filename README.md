@@ -30,10 +30,6 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
   </a>
 </div>              
 <h2 >👩‍💻About me : </h2>
-    👋 Hello and welcome to my LinkedIn profile! 
-
-"Innovation in programming comes from the art of simplification and the pursuit of efficiency." 
-
 Hello, I'm Neeru, currently a 2nd-year Computer Science student at CT University. My journey is fueled by a passion for web development 🌐 and a commitment to learn Data Structures and Algorithms (DSA) 📊.
 
 🌐 Enhancing my proficiency in HTML/CSS and JavaScript, I'm passionate about crafting innovative projects that make a difference. 💻🚀
