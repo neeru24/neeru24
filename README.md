@@ -31,7 +31,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 </div>              
 <h2 >👩‍💻About me : </h2>
  🌿 Hello, I'm Neeru, currently a 2nd-year Computer Science student at CT University.
-
+<br>
 ✨My journey is fueled by a passion for web development 🌐 and a commitment to learn Data Structures and Algorithms (DSA) 📊.
 
 🌐 Enhancing my proficiency in HTML/CSS and JavaScript, I'm passionate about crafting innovative projects that make a difference. 💻🚀
