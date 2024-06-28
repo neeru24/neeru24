@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
 </div>
-
+ 
 <div align="center"> 
     <h1>  
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey..+I'm+Neeru;Welcome+to+my+Github+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!;Passionate+about+Coding!;" alt="Typing SVG"/> 
