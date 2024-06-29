@@ -37,8 +37,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 <br><br>
 🤝 Beyond academics, I actively engage in various university tech events and extracurriculars. As an enthusiastic member of the Tech Titans community, I take pleasure in networking with industry professionals and fellow tech enthusiasts, cultivating collaboration and fostering innovation.
 <br><br>
-✨ An active learner, I am passionate about contributing to the tech industry and embracing new opportunities for growth and development.
-<br><br>
+
 📩 Get in touch: 
     <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
 <h2>:hammer_and_wrench: Languages and Tools : <h2>
