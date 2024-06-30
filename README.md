@@ -42,7 +42,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
 <h2>:hammer_and_wrench: Languages and Tools : <h2>
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/neeru24/Skills_icons/blob/main/ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="40" height="40"/>
