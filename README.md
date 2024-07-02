@@ -24,6 +24,9 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
    <a href="https://github.com/neeru24" style="display: inline-block; text-align: center; margin: 0 13px;">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
+    <a href="https://www.naukri.com/code360/profile/b15e3a29-8a21-41fe-9dfd-a03155f97134">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>              
 <h2 >👩‍💻About me : </h2>
  🌿 Hello, I'm Neeru, currently a 2nd-year Computer Science student at CT University.
