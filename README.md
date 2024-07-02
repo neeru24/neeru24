@@ -25,7 +25,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
   </a>
     <a href="https://www.naukri.com/code360/profile/b15e3a29-8a21-41fe-9dfd-a03155f97134">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://github.com/neeru24/Connect_icons/blob/main/coding%20ninjas.jpg" alt="codingninjas Badge"/>
   </a>
 </div>              
 <h2 >👩‍💻About me : </h2>
