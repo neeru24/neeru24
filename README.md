@@ -10,6 +10,12 @@
 <h2 >🔗Get in touch :</h2>         
 
 Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
+<p align="left">
+<a href="https://www.linkedin.com/in/neerugangarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iarmaan" height="30" width="40" /></a>
+
+<a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdzc7eqgjv9rcokkpanmexw" height="30" width="40" /></a>
+</p>
+
 <div id="badges" align = "center">  
   <a href="https://www.linkedin.com/in/neerugangarh">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
