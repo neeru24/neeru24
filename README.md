@@ -11,8 +11,9 @@
 
 Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/neerugangarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iarmaan" height="30" width="40" /></a>
-<a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdzc7eqgjv9rcokkpanmexw" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neerugangarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerugangarh" height="30" width="40" /></a>
+<a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT PODCAST" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/b15e3a29-8a21-41fe-9dfd-a03155f97134" target="blank"><img align="center" src="https://manu-karenite.github.io/portfolio/img/cn.png" alt="coding ninjas" height="30" width="40" /></a>
 </p>
          
 <h2 >👩‍💻About me : </h2>
