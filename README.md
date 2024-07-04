@@ -33,7 +33,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 📩 Get in touch: 
     <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
     <br>
-<h2>Skills</h2>
+<h2>🛠️Skills</h2>
 <p>
   <a href="https://skillicons.dev">
     <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
