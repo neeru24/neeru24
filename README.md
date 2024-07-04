@@ -34,11 +34,12 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
     
 <h2>:hammer_and_wrench: Languages and Tools : <h2>
-<div>
+
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp" width="150" height="150" />
 </a>
-</div>
+
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 My Stats :
