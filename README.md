@@ -42,7 +42,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 </div>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" margin="10px" src="https://skillicons.dev/icons?i=html,css,js,cpp" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp" width="40" height="40" />
   </a>
 </p>
 <br>
