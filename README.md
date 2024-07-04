@@ -33,12 +33,12 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 📩 Get in touch: 
     <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
     
-<h2>:hammer_and_wrench: Languages and Tools :</h2>
-<div style="margin-top: 1px; margin-bottom: 1px;">
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,cpp" width="150" height="150" style="margin: 5px;" />
-    </a>
-</div>
+<h2>Skills</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img align="center" margin="10px" src="https://skillicons.dev/icons?i=js,ts,python,java,php,c,cpp,html,css,flask,react,nextjs,tailwind,nodejs,express,mongodb,mysql,php,discord,vscode,postman,figma,vite,npm,git,github,linux" />
+  </a>
+</p>
 
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
