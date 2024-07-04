@@ -34,7 +34,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
     <br>
 <h2>Skills</h2>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img margin="10px" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
   </a>
