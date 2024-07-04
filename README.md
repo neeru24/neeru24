@@ -35,16 +35,14 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     
 <h2>:hammer_and_wrench: Languages and Tools : <h2>
 <div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp" width="40" height="40" />
+  </a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/neeru24/Skills_icons/blob/main/ISO_C%2B%2B_Logo.svg.png" title="C++" alt="C++" width="40" height="40"/>
 </div>
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp" width="40" height="40" />
-  </a>
-</p>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
