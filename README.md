@@ -33,7 +33,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 📩 Get in touch: 
     <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
     
-<p>:hammer_and_wrench: Languages and Tools :</p>
+<h2>:hammer_and_wrench: Languages and Tools :</h2>
 <div style="margin-top: 1px; margin-bottom: 1px;">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,cpp" width="150" height="150" style="margin: 5px;" />
