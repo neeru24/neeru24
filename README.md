@@ -35,9 +35,9 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 
-<div align="center" style="margin-top: 10px; margin-bottom: 10px;">
+<div style="margin-top: 1px; margin-bottom: 1px;">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,cpp" width="150" height="150" style="margin: 10px;" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,cpp" width="150" height="150" style="margin: 5px;" />
     </a>
 </div>
 
