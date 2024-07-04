@@ -36,7 +36,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 <h2>Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="center" margin="10px" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
+    <img margin="10px" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
   </a>
 </p>
 <br>
