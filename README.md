@@ -23,7 +23,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 <br><br>
 ✨My journey is fueled by a passion for web development 🌐 and a commitment to learn Data Structures and Algorithms (DSA) 📊.
 <br><br>
-📅 I love sharing daily insights on DSA, documenting my learning journey and discoveries. You're invited to join me on <a href="https://www.linkedin.com/in/neerugangarh" target="blank">LinkedIn </a> for this exciting path of exploration and growth!
+📅 I love sharing daily insights on DSA, documenting my learning journey and discoveries. You're invited to join me on <a href="https://www.linkedin.com/in/neerugangarh" target="new"> LinkedIn </a> for this exciting path of exploration and growth!
 <br><br>
 📩 Get in touch: 
     <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
