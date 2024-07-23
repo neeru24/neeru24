@@ -23,13 +23,8 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 <br><br>
 ✨My journey is fueled by a passion for web development 🌐 and a commitment to learn Data Structures and Algorithms (DSA) 📊.
 <br><br>
-🌐 Enhancing my proficiency in HTML/CSS and JavaScript, I'm passionate about crafting innovative projects that make a difference. 💻🚀
+📅 I love sharing daily insights on DSA, documenting my learning journey and discoveries. You're invited to join me on <a href="https://www.linkedin.com/in/neerugangarh" target="blank">LinkedIn </a> for this exciting path of exploration and growth!
 <br><br>
-📅 I love sharing daily insights on DSA, documenting my learning journey and discoveries. You're invited to join me on LinkedIn for this exciting path of exploration and growth!
-<br><br>
-🤝 Beyond academics, I actively engage in various university tech events and extracurriculars. As an enthusiastic member of the Tech Titans community, I take pleasure in networking with industry professionals and fellow tech enthusiasts, cultivating collaboration and fostering innovation.
-<br><br>
-
 📩 Get in touch: 
     <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
     <br>
