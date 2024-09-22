@@ -43,14 +43,23 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
     <br>
     
-<h2>🛠️Skills</h2>
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+<!--Languages & tools-->
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1>
+
 <p>
   <a href="https://skillicons.dev">
     <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
   </a>
 </p>
 <br>
-    
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📊 My Stats :
