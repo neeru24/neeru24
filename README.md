@@ -16,7 +16,7 @@
     </h1>
 </div> -->
 
-<h2 >🔗Get in touch :</h2>         
+<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>       
 
 Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
 <p align="left">
@@ -26,7 +26,12 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 <a href="https://leetcode.com/u/Neeru_Gangarh/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
 <a href="https://www.youtube.com/@neeru_05" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/575/original/youtube-logo-youtube-icon-transparent-free-png.png" alt="yt" height="63" width="60" /></a>
 </p>
-         
+
+<!--view count-->
+<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=neeru24&&style=for-the-badge" /> </p>
+<!--line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 <h2 >👩‍💻About me : </h2>
  🌿 Hello, I'm Neeru, currently a 2nd-year Computer Science student at CT University.
 <br><br>
