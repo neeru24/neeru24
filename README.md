@@ -19,7 +19,7 @@
 <h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>       
 
 Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/neerugangarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerugangarh" height="40" width="50" /></a>
 <a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT PODCAST" height="40" width="50"/></a>
 <a href="https://www.naukri.com/code360/profile/b15e3a29-8a21-41fe-9dfd-a03155f97134" target="blank"><img align="center" src="https://manu-karenite.github.io/portfolio/img/cn.png" alt="coding ninjas" height="40" width="50" /></a>
@@ -47,7 +47,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 <!--Languages & tools-->
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1>
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
   </a>
