@@ -33,9 +33,9 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <h1 >👩‍💻 About me : </h1>
- 🌿 Hello, I'm Neeru, currently a 2nd-year Computer Science student at CT University.
+ 🌿 Hello, I'm Neeru, currently a 2nd-year CSE student @CTU.
 <br><br>
-✨My journey is fueled by a passion for web development 🌐 and a commitment to learn Data Structures and Algorithms (DSA) 📊.
+✨Passion for web development 🌐 and a commitment to learn Data Structures and Algorithms (DSA) 📊.
 <br><br>
 📅 I love sharing daily insights on DSA and JavaScript, documenting my learning journey. You're invited to join me on <a href="https://www.linkedin.com/in/neerugangarh" target="new"> LinkedIn</a> for this exciting path of exploration and growth!
 <br><br>
