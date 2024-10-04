@@ -68,7 +68,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 Peek into my GitHub stats to check out my digital journey! <br> <br>
 <a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=neeru24&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=neeru24&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/neeru24) <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--Thank You-->
 <p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"></p> 
