@@ -32,7 +32,7 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 <!--view count-->
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=neeru24&&style=for-the-badge" /> </p>
 <!--line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h1 >👩‍💻 About me : </h1>
  🌿 Hello, I'm Neeru, currently a 2nd-year CSE student @CTU.
