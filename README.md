@@ -70,6 +70,19 @@
 
 </table>
 <br>
+
+# ⚡ Open Source Programs & Achievements
+
+<div align="center">
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Explorer%20Badge.png" alt="Explorer Badge" width="90" />
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Adventurer%20Badge.png" alt="Adventurer Badge" width="90" />
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Champion%20Badge.png" alt="Champion Badge" width="90" />
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Trailblazer%20Badge.png" alt="Trailblazer Badge" width="90" />
+              <img src="https://github.com/ananyag309/ananyag309/blob/main/Summit%20Seeker%20Badge.png" alt="Summit Seeker Badge" width="90" />
+              <img src="Innovator Bage.png" alt="Innovator Badge" width="80" />
+              <img src="Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202024-07-29%20(1).png" alt="Postman API Fundamentals Student Expert" width="80" /> 
+</div>
+
 <div align="center"> 
     <h1> 
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
