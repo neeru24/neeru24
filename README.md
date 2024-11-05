@@ -83,6 +83,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" /></a>
 </div>
 
+[![An image of @neeru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neeru)](https://holopin.io/@neeru)
+
 <div align="center"> 
     <h1> 
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
