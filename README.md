@@ -71,40 +71,26 @@
 </table>
 <br>
 
-<h2 align="center"> ⚡ Open Source Programs & Achievements </h2>
-<div align="center">
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<table align="center">
-  <tr>
-    <td rowspan="2" align="center" valign="top">
-      <h3>🎖️ Achievements </h3>
-      <ul style="list-style: none; padding: 0; text-align: left;">
-        <li>🥳 Ranked #18 in GSSoC 2024</li>
-        <li>📈 163 Merged PRs</li>
-        <li>🏆 Total Score: 3755</li>
-      </ul>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="70px" height="70px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="70px" height="70px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="70px" height="70px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="70px" height="70px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="70px" height="70px" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="70px" height="70px" />
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="70px" height="70px" />
-      <img src="https://github.com/ananyag309/ananyag309/blob/main/Conqueror%20Badge.png" width="70px" height="70px" />
-      <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="70px" height="70px" />
-    </td>
-  </tr>
-</table>
-
-
-
-
+<h2 align="center"> ⚡ Open Source Programs & Achievements 🎖️</h2>
+<div align="center" style="max-width: 600px; margin: auto;">
+  <h3 style="text-align: left; font-size: 16px;">
+    🥳 Ranked #18 in GSSoC 2024 | 📈 163 Merged PRs | 🏆 Total Score: 3755
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90px" height="90px" />
+    <img src="https://github.com/ananyag309/ananyag309/blob/main/Conqueror%20Badge.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
+    <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="90px" height="90px" />
+  </div>
+</div>
 
 
 [![An image of @neeru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neeru)](https://holopin.io/@neeru)
