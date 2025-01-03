@@ -26,6 +26,48 @@
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<div align="center">
+<h2 align="center"> 💻 About Me </h2>
+
+
+</div>
+
+<details>
+  <summary>🚀 Open Source Contributions</summary>
+	
+  - **GirlScript Summer of Code 2024**: Ranked 18th 🏅
+  - **Hacktoberfest 2024**
+  - **Winter of Blockchain 2024**
+  - **Contributor @SWOC 2025**
+  - **Contributor @KWOC 2024**
+	
+</details>
+
+<details>
+  <summary>🎓 Achievements</summary>
+	
+  - **Google Cloud Arcade Facilitator Program 2024**
+  - Received **Academic Excellence Award** at CT University
+    
+</details>
+
+<details>
+  <summary>🧑‍💻 My Coding Journey</summary>
+	
+  - **100+ days** of sharing insights on DSA & JavaScript
+    
+</details>
+
+<details>
+  <summary>🌍 Outside Tech</summary>
+  - I enjoy reading quotes, capturing nature, and spending time with friends.
+</details>
+
+
+
+
+
+
 <!--Languages & tools-->
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
 
