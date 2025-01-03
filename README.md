@@ -18,35 +18,12 @@
 <a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT PODCAST" height="40" width="50"/></a>
 <a href="https://www.naukri.com/code360/profile/b15e3a29-8a21-41fe-9dfd-a03155f97134" target="blank"><img align="center" src="https://manu-karenite.github.io/portfolio/img/cn.png" alt="coding ninjas" height="40" width="50" /></a>
 <a href="https://leetcode.com/u/Neeru_Gangarh/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
-<a href="https://www.youtube.com/@neeru_05" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/575/original/youtube-logo-youtube-icon-transparent-free-png.png" alt="yt" height="63" width="60" /></a> 
 </p>
 <h4 align="center"> 📩 Get in touch: <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a> </h4>
 <!--view count-->
 <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=neeru24&&style=for-the-badge" /> </p>
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!-- Streak feature -->
-<!--stats-->
-<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
-<div align="center" width="50%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeru24&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /></p>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeru24&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeru24&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeru24&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neeru24&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeru24&theme=github_dark" />
-</div>
-<br>
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=neeru24&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
-</div>
-<br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Languages & tools-->
@@ -73,6 +50,29 @@
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!-- Streak feature -->
+<!--stats-->
+<h2 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h2>
+<div align="center" width="50%">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeru24&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /></p>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeru24&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeru24&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neeru24&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neeru24&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeru24&theme=github_dark" />
+</div>
+<br>
+<div align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=neeru24&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
+</div>
+<br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
 
 <h2 align="center"> ⚡ Open Source Programs & Achievements 🎖️</h2>
 <div align="center" style="max-width: 600px; margin: auto;">
