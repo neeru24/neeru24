@@ -98,9 +98,9 @@
 <div align="center" style="max-width: 600px; margin: auto;">
 <details>
   <summary>
-    <h3 style="text-align: left; font-size: 16px;">
+    <h4 style="text-align: left; font-size: 16px;">
         🥳 Ranked #18 in GSSoC 2024 | 📈 163 Merged PRs | 🏆 Total Score: 3755
-    </h3>
+    </h4>
   </summary>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
@@ -140,9 +140,9 @@
 <div align="center" style="max-width: 600px; margin: auto;">
 <details>
   <summary>
-    <h3>
+    <h4>
         Check Out More Stats ✨📊
-    </h3>
+    </h4>
 
   </summary>
   <div align="center">
