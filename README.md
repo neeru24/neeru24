@@ -117,7 +117,7 @@
     <a href="https://holopin.io/@neeru">
       <img src="https://holopin.me/neeru" alt="An image of @neeru's Holopin badges" style="max-width: 100%;" />
     </a>
-<img src="https://github.com/neeru24/Connect_icons/blob/main/Purple%20and%20Orange%20Simple%20Illustrative%20Computer%20Presentation.png" width= "70%" height= "40%"/> 
+<img src="https://github.com/neeru24/Connect_icons/blob/main/Purple%20and%20Orange%20Simple%20Illustrative%20Computer%20Presentation.png" width= "80%" height= "50%"/> 
 
   </div>
 </details>
