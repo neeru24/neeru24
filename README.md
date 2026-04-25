@@ -189,6 +189,7 @@
 </details>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/neeru24/neeru24/output/github-snake-dark.svg)
 
 <div align="center"> 
     <h1> 
