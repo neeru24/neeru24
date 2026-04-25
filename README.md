@@ -105,6 +105,9 @@
 <div align="center" width="50%">
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neeru24&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Neeru's GitHub Streak" /> 
+	  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=neeru24&bg_color=1F222E&color=4da6ff&line=02cf35&point=FFFFFF&hide_border=true" width="600"/>
+
+
   </p>
 </div>
 
