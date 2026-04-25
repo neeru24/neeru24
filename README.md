@@ -38,19 +38,27 @@
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
 
 <table align="center">
-	<tr>
-	<td><strong>Programming & Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,opencv,matlab,mysql&theme=dark"></td>
+
+<tr>
+<td><strong>Languages & Core Tech</strong></td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=cpp,py,opencv,matlab,&theme=dark">
+</td>
 </tr>
 
 <tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+<td><strong>Frontend Development</strong></td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma&theme=dark">
+</td>
 </tr>
 
+
 <tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=github,vscode,git,vercel,linux,bash&theme=dark"></td>
+<td><strong>Developer Tools</strong></td>
+<td>
+<img height="40" src="https://skillicons.dev/icons?i=github,vscode,git,vercel,netlify,linux&theme=dark">
+</td>
 </tr>
 
 </table>
@@ -62,12 +70,11 @@
 
 <h2 align="center"> ⚡ Open Source Programs & Achievements 🎖️</h2>
 <div align="center" style="max-width: 600px; margin: auto;">
-<details>
-  <summary>
-    <h3 style="text-align: left; font-size: 16px;">
+
+<h3 style="text-align: left; font-size: 16px;">
         🥳 Ranked #18 in GSSoC 2024 | 📈 163 Merged PRs | 🏆 Total Score: 3755
-    </h3>
-  </summary>
+</h3>
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
@@ -83,10 +90,8 @@
     <a href="https://holopin.io/@neeru">
       <img src="https://holopin.me/neeru" alt="An image of @neeru's Holopin badges" style="max-width: 100%;" />
     </a>
-<img src="https://github.com/neeru24/Connect_icons/blob/main/Purple%20and%20Orange%20Simple%20Illustrative%20Computer%20Presentation.png" width= "80%" height= "50%"/> 
 
   </div>
-</details>
 </div>
 
 
