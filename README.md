@@ -86,18 +86,18 @@
 
 <table align="center">
 	<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp&theme=dark"></td>
+	<td><strong>Programming & Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,py,opencv,matlab,mysql&theme=dark"></td>
 </tr>
 
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
 </tr>
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=github,vscode&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=github,vscode,git,vercel,linux,bash&theme=dark"></td>
 </tr>
 
 </table>
