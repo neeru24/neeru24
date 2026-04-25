@@ -10,15 +10,7 @@
 
 </div>
 
-<h2 align="center">
-  Connect with me 
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" height="35">
-</h2>
-
-
-<p align="center">
-  Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach out:
-</p>
+<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>
 
 <div align="center">
   <a href="mailto:neerugangarh@gmail.com">
@@ -38,45 +30,6 @@
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<div align="center">
-<h2 align="center"> 💻 About Me </h2>
-
-
-</div>
-
-<details>
-  <summary>🚀 Open Source Contributions</summary>
-	
-  - **GirlScript Summer of Code 2024**: Ranked 18th 🏅
-  - **Hacktoberfest 2024**
-  - **Winter of Blockchain 2024**
-  - **Contributor @SWOC 2025**
-  - **Contributor @KWOC 2024**
-	
-</details>
-
-<details>
-  <summary>🎓 Achievements</summary>
-	
-  - **Google Cloud Arcade Facilitator Program 2024**
-  - Received **Academic Excellence Award** at CT University
-    
-</details>
-
-<details>
-  <summary>🧑‍💻 My Coding Journey</summary>
-	
-  - **100+ days** of sharing insights on DSA & JavaScript
-    
-</details>
-
-<details>
-  <summary>🌍 Outside Tech</summary>
-  - I enjoy reading quotes, capturing nature, and spending time with friends.
-</details>
-
-
 
 
 
@@ -151,13 +104,7 @@
 
 <!-- Dropdown for More Stats -->
 <div align="center" style="max-width: 600px; margin: auto;">
-<details>
-  <summary>
-    <h3>
-        Check Out More Stats ✨📊
-    </h3>
 
-  </summary>
   <div align="center">
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neeru24&theme=github_dark" />
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neeru24&theme=github_dark" />
@@ -166,14 +113,14 @@
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neeru24&theme=github_dark" />
   </div>
   <br>
-  <div align="center">
-    <!-- GitHub Trophies -->
-    <img src="https://github-profile-trophy.vercel.app/?username=neeru24&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 120%; display: inline-block;" />
-  </div>
-</details>
+  
 </div>
 
+<div align="center"
+	
 ![Snake animation](https://raw.githubusercontent.com/neeru24/neeru24/output/github-snake-dark.svg)
+
+</div>
 
 <div align="center"> 
     <h1> 
