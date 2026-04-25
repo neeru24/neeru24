@@ -17,35 +17,19 @@
 
 
 <p align="center">
-  Hello, fellow coder! 🖐️ <br> Welcome to my GitHub profile! Feel free to reach out:
+  Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Feel free to reach out:
 </p>
 
-<table align="center">
-<tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/neerugangarh" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" width="55"/>
-</a>
-</td>
+<div align="center">
+  <a href="mailto:neerugangarh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&perline=10" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/neerugangarh/">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=10" height="40" alt="LinkedIn" />
+  </a>
+</div>
 
-<td align="center">
-<a href="https://www.naukri.com/code360/profile/b15e3a29-8a21-41fe-9dfd-a03155f97134" target="_blank">
-<img src="https://manu-karenite.github.io/portfolio/img/cn.png" height="45" width="55"/>
-</a>
-</td>
-
-<td align="center">
-<a href="https://leetcode.com/u/Neeru_Gangarh/" target="_blank">
-<img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="45" width="55"/>
-</a>
-</td>
-</tr>
-</table>
-
-<h4 align="center">
-  📩 Get in touch: 
-  <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
-</h4>
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neeru24&style=for-the-badge" />
