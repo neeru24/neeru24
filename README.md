@@ -10,18 +10,47 @@
 
 </div>
 
-<h2 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h2>       
+<h2 align="center">
+  Connect with me 
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" height="35">
+</h2>
+
 
 <p align="center">
-    Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
-<a href="https://www.linkedin.com/in/neerugangarh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neerugangarh" height="40" width="50" /></a>
-<a href="https://youtu.be/HxgnzT8Tj9g?si=lFjZW2PFS90HFe6B" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YT PODCAST" height="40" width="50"/></a>
-<a href="https://www.naukri.com/code360/profile/b15e3a29-8a21-41fe-9dfd-a03155f97134" target="blank"><img align="center" src="https://manu-karenite.github.io/portfolio/img/cn.png" alt="coding ninjas" height="40" width="50" /></a>
-<a href="https://leetcode.com/u/Neeru_Gangarh/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" alt="leetcode" height="40" width="50" /></a>
+  Hello, fellow coder! 🖐️ <br> Welcome to my GitHub profile! Feel free to reach out:
 </p>
-<h4 align="center"> 📩 Get in touch: <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a> </h4>
-<!--view count-->
-<p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=neeru24&&style=for-the-badge" /> </p>
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.linkedin.com/in/neerugangarh" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" width="55"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.naukri.com/code360/profile/b15e3a29-8a21-41fe-9dfd-a03155f97134" target="_blank">
+<img src="https://manu-karenite.github.io/portfolio/img/cn.png" height="45" width="55"/>
+</a>
+</td>
+
+<td align="center">
+<a href="https://leetcode.com/u/Neeru_Gangarh/" target="_blank">
+<img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="45" width="55"/>
+</a>
+</td>
+</tr>
+</table>
+
+<h4 align="center">
+  📩 Get in touch: 
+  <a href="mailto:neerugangarh@gmail.com">neerugangarh@gmail.com</a>
+</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=neeru24&style=for-the-badge" />
+</p>
+
 
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
