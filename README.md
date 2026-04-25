@@ -89,6 +89,7 @@
   <div style="margin-top: 20px;">
     <a href="https://holopin.io/@neeru">
       <img src="https://holopin.me/neeru" alt="An image of @neeru's Holopin badges" style="max-width: 100%;" />
+	  <img width="1014" height="252" alt="image" src="https://github.com/user-attachments/assets/4defc333-4887-46d6-8e0b-e13d3bb89e89" />
     </a>
 
   </div>
